@@ -1,0 +1,5 @@
+/*
+
+	Module for storing helping functions. Get them out of main.js...
+
+*/

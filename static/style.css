@@ -1,0 +1,37 @@
+body {
+	font-family: Arial;
+}
+
+#title {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#subtitle {
+	font-size: 20px;
+}
+
+#smalltype {
+	font-size: 10px;
+}
+
+#infotitle {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#notice {
+	font-size: 12px;
+	font-weight: bold, italic;
+}
+
+#alphainfo {
+	font-size: 16px;
+	font-weight: bold;
+	border-style: dashed;
+	border-width: 1px;
+}
+
+#siteLinks {
+	font-size: 10px;
+}
